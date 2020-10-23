@@ -1,0 +1,8 @@
+C:\Users\semen\source\repos\Agent Grpc\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\semen\source\repos\Agent Grpc\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\semen\source\repos\Agent Grpc\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\semen\source\repos\Agent Grpc\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\Agent Grpc\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\semen\source\repos\Agent Grpc\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\semen\source\repos\Agent Grpc\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\semen\source\repos\Agent Grpc\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache

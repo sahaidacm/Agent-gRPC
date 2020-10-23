@@ -1,0 +1,2 @@
+obj\Debug\netstandard2.0\Protos/Subscribe.cs \
+obj\Debug\netstandard2.0\Protos/SubscribeGrpc.cs: Protos/subscribe.proto
